@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    flex-direction: column;
+    padding: 20px;
+    text-transform: capitalize;
+}
+
+.container img {
+    position: relative;
+    border-radius: 50%;
+}
